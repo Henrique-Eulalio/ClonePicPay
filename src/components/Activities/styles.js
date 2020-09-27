@@ -46,7 +46,7 @@ export const CardBody = styled.View`
 
 export const UserName = styled.Text`
     color: #fff;
-    font-size: 20px;
+    font-size: 18px;
 `;
 
 export const CardFooter = styled.View`
@@ -72,7 +72,7 @@ export const Divider = styled.View`
     margin: 0 10px;
 `;
 
-export const Date = styled.View`
+export const Date = styled.Text`
     color: #fff;
     margin-left: 5px;
 `;
@@ -84,6 +84,7 @@ export const Actions = styled.View`
 export const Option = styled.TouchableOpacity`
     margin-left: 15px;
     flex-direction: row;
+    align-self: center;
 `;
 
 export const OptionLabel = styled.Text`
