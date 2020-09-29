@@ -6,6 +6,8 @@ export const Wrapper = styled.View`
     flex: 1;
 `;
 
+export const Container = styled.ScrollView``;
+
 export const Header = styled(LinearGradient)`
     height: 300px;
 `;  
@@ -70,7 +72,6 @@ export const MyAccountLabel = styled.Text`
 `;
 
 export const LabelContainer = styled.View`
-    margin-left: 15px;
     margin-top: 10px;
     margin-bottom: 10px;
 `;
@@ -79,23 +80,53 @@ export const LabelTitle = styled.Text`
     color: #fff;
     font-size: 15px;
     font-weight: bold;
+    margin-top: 3px;
+    margin-left: 15px;
+`;
+
+export const LabelTitleColor = styled.Text`
+    color: #43c2a2;
+    font-size: 13px;
+    font-weight: 400;
+    margin-left: 15px;
+`;
+
+export const LabelTitleNoColor = styled.View`
+    background: #000;
+    flex: 1;
+    height: 50px;
+    justify-content: center;
+`;
+
+export const LabelContentColor = styled.View`
+    background: #1e222b;
+    padding: 0;
+    margin: 0;
+    flex: 1;
+    height: 50px;
+    justify-content: center;
 `;
 
 export const LabelContent = styled.Text`
     color: rgba(255, 255, 255, 0.6);
     font-size: 13px;
+    margin-top: 3px;
+    margin-bottom: 8px;
+    margin-left: 15px;
 `;
 
 export const Divider = styled.View`
     background:  rgba(255, 255, 255, 0.4);
     height: 1px;
     width: 380px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-left: 15px;
 `;
 
 export const LabelContentEmail = styled.Text`
     color: #43c2a2;
+    margin-top: 3px;
+    margin-bottom: 8px;
+    margin-left: 15px;
 `;
 
 export const LabelEmailContent = styled.View`
@@ -107,6 +138,22 @@ export const LabelEmailContent = styled.View`
 
 export const LabelEmailTexts = styled.View`
 
+`;
+
+export const LabelTitleColorExit = styled.Text`
+    color: #ff4040;
+    margin-top: 3px;
+    margin-bottom: 8px;
+    margin-left: 15px;
+`;
+
+export const LabelContentColorExit = styled.View`
+    background: #1e222b;
+    padding: 0;
+    margin: 0;
+    flex: 1;
+    height: 50px;
+    justify-content: center;
 `;
 
 
