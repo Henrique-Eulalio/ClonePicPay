@@ -116,7 +116,7 @@ export const LabelContent = styled.Text`
 `;
 
 export const Divider = styled.View`
-    background:  rgba(255, 255, 255, 0.4);
+    background:  rgba(255, 255, 255, 0.2);
     height: 1px;
     width: 380px;
     margin-left: 15px;

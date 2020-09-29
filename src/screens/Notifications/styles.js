@@ -9,14 +9,14 @@ export const Wrapper = styled.View`
 export const Header = styled.SafeAreaView`
     color: #1e222b;
     height: 45px;
-    padding: 0 30px;
+    padding: 0 15px;
     flex-direction: row;
     justify-content: space-between;
 `;
 
 export const LeftSide = styled.Text`
     color: #fff;
-    font-size: 16px;
+    font-size: 17px;
     font-weight: bold;
 `;
 
@@ -25,13 +25,28 @@ export const RightSide = styled.Text`
     font-size: 14px;
 `;
 
-export const Body = styled.View`
-    flex: 1;
-    justify-content: center;
-    align-items: center;
+export const NotificationsContainer = styled.View`
+    background: #1e222b;
+`;
+export const NotificationContent = styled.View`
+    height: 100px;
+    padding: 10px 10px;
 `;
 
-export const CenterText = styled.Text`
-    color: rgba(255, 255, 255, 0.7);
-    font-size: 16px;
+export const NotificationText = styled.Text`
+    color: #fff;
+    font-size: 15px;
+    margin-bottom: 10px;
+`;
+
+export const NotificationDate = styled.Text`
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 12px;
+`;
+
+export const Divider = styled.View`
+    background:  rgba(255, 255, 255, 0.2);
+    height: 1px;
+    width: 380px;
+    margin-left: 12px;
 `;
