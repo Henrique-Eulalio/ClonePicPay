@@ -3,7 +3,7 @@
 Clone PicPay
 </h1>
 
-<p align="center">Este projeto é um clone (apenas front) do app PicPay. O intuito dele é treinar algumas funções do React Native</p>
+<p align="center">Este projeto é um clone (apenas front) do app PicPay. O intuito dele é treinar algumas funções do React Native.</p>
 
 ## Recursos
 As recursos utilizadas para esse projeto foram: 
