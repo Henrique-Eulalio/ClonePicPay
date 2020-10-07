@@ -13,7 +13,7 @@ As recursos utilizadas para esse projeto foram:
 
 ## Começando
 
-1. Clone esse repositório usando o comando: https://github.com/Henrique-Eulalio/ClonePicPay.git
+1. Clone esse repositório usando o comando: git clone https://github.com/Henrique-Eulalio/ClonePicPay.git
 2. Instale as dependências usando: yarn
 
 ## Referência
