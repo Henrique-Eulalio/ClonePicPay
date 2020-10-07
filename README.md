@@ -3,7 +3,7 @@
 Clone PicPay
 <br>
 <br>
-<img src="./LogoPicPay.png" width="100" height="100" title="Logo PicPay">
+<img src="./src/Images/gif2.gif" width="200" height="400" title="Gif">
 </h1>
 
 <p align="center">Este projeto é um clone (apenas front) do app PicPay. O intuito dele é treinar algumas funções do React Native.</p>
@@ -26,6 +26,7 @@ Clone PicPay
 <p>Clone esse projeto em seu computador e siga os seguintes passos:</p>
 
 ```
+-> Não é necessário executar a linha abaixo caso você já possua o Expo (CLI) instalado.
 yarn global add install expo-cli
 npm install
 npm start
