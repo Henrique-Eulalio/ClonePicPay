@@ -3,7 +3,7 @@
 Clone PicPay
 <br>
 <br>
-<img src="./LogoPicPay.png" width="100" height="100" title="=Tela Inicial">
+<img src="./LogoPicPay.png" width="100" height="100" title="=Logo PicPay">
 </h1>
 
 <p align="center">Este projeto é um clone (apenas front) do app PicPay. O intuito dele é treinar algumas funções do React Native.</p>
