@@ -21,8 +21,10 @@ As recursos utilizadas para esse projeto foram:
 
 
 ## Imagens do projeto final
-<img src="./src/Images/Print1.jpeg" width="150" title="=Tela Inicial">
-<img src="./src/Images/Print2.jpeg" width="150" title="=Tela da Carteira">
-<img src="./src/Images/Print3.jpeg" width="150" title="=Tela de Pagamentos">
-<img src="./src/Images/Print4.jpeg" width="150" title="=Tela de Notificações">
-<img src="./src/Images/Print5.jpeg" width="150" title="=Tela de Ajustes">
+<img src="./src/Images/Print1.jpeg" width="150" title="=Tela Inicial"> <img src="./src/Images/Print2.jpeg" width="150" title="=Tela da Carteira"> <img src="./src/Images/Print3.jpeg" width="150" title="=Tela de Pagamentos">
+<img src="./src/Images/Print4.jpeg" width="150" title="=Tela de Notificações"> <img src="./src/Images/Print5.jpeg" width="150" title="=Tela de Ajustes">
+
+
+
+
+
