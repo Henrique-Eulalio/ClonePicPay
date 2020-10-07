@@ -8,18 +8,30 @@ Clone PicPay
 
 <p align="center">Este projeto é um clone (apenas front) do app PicPay. O intuito dele é treinar algumas funções do React Native.</p>
 
-## Recursos
-As recursos utilizadas para esse projeto foram: 
+<h1>💻Ferramentas Utilizadas</h1>
+<h2>Recurso</h2>
+<p>Para o desenvolvimento do projeto foi utilizada a seguinte tecnologia:</p> 
 
 - ⚛️ **React Native** — Uma lib que permite criar apps nativos para Android e iOS (neste projeto foi utilizado o JS).
 <br>
+<h2>🚀Tecnologias</h2>
+<h4>📱Mobile:</h4>
+<ul>
+ <li><a href="https://reactnative.dev/">React Native</a></li>
+ <li><a href="https://expo.io/">Expo</a></li>
+</ul>
 
-## Começando
+<h2>📚Instalação</h2>
+<h3>Mobile</h3>
+<p>Clone esse projeto em seu computador e siga os seguintes passos:</p>
 
-1. Clone esse repositório usando o comando: git clone https://github.com/Henrique-Eulalio/ClonePicPay.git
-2. Instale as dependências usando: yarn
+```
+yarn global add install expo-cli
+npm install
+npm start
+```
 
-## Referência
+## Referências
  - Parte desse conteúdo foi retirado dos vídeos: https://www.youtube.com/watch?v=0CraBZHejKI&t=1478s, https://www.youtube.com/watch?v=m5w6GcEhteM e https://www.youtube.com/watch?v=fiuWVbnBIpo
 
 
