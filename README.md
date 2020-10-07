@@ -3,7 +3,7 @@
 Clone PicPay
 <br>
 <br>
-<img src="./LogoPicPay.png" width="100" height="100" title="=Logo PicPay">
+<img src="./LogoPicPay.png" width="100" height="100" title="Logo PicPay">
 </h1>
 
 <p align="center">Este projeto é um clone (apenas front) do app PicPay. O intuito dele é treinar algumas funções do React Native.</p>
@@ -37,8 +37,8 @@ npm start
 
 ## Imagens do projeto final
 <h1 align="center">
-<img src="./src/Images/Print1.jpeg" width="150" title="=Tela Inicial"> <img src="./src/Images/Print2.jpeg" width="150" title="=Tela da Carteira"> <img src="./src/Images/Print3.jpeg" width="150" title="=Tela de Pagamentos">
-<img src="./src/Images/Print4.jpeg" width="150" title="=Tela de Notificações"> <img src="./src/Images/Print5.jpeg" width="150" title="=Tela de Ajustes">
+<img src="./src/Images/Print1.jpeg" width="150" title="Tela Inicial"> <img src="./src/Images/Print2.jpeg" width="150" title="Tela da Carteira"> <img src="./src/Images/Print3.jpeg" width="150" title="Tela de Pagamentos">
+<img src="./src/Images/Print4.jpeg" width="150" title="Tela de Notificações"> <img src="./src/Images/Print5.jpeg" width="150" title="Tela de Ajustes">
 </h1>
 
 
